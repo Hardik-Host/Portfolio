@@ -35,16 +35,16 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Developer", "Blogger", "Designer", "Freelancer"],
+        strings: ["Python/Django Developer", "Python/Flask Developer", "Python Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typing = new Typed(".typing-2", {
-        strings: ["Developer", "Blogger", "Designer", "Freelancer"],
-        typeSpeed: 150,
-        backSpeed: 80,
+        strings: ["Python/Django Developer", "Python/Flask Developer", "Python Developer"],
+        typeSpeed: 90,
+        backSpeed: 40,
         loop: true
     });
 
