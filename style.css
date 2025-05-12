@@ -388,25 +388,19 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills-content .right .html::before{
+.skills-content .right .w9::before{
     width: 90%;
 }
-.skills-content .right .css::before{
-    width: 60%;
-}
-.skills-content .right .js::before{
+.skills-content .right .w8::before{
     width: 80%;
 }
-.skills-content .right .php::before{
-    width: 50%;
-}
-.skills-content .right .mysql::before{
+.skills-content .right .w7::before{
     width: 70%;
 }
-.skills-content .right .Bootstrap::before{
-    width: 55%;
+.skills-content .right .w6::before{
+    width: 60%;
 }
-.skills-content .right .git::before{
+.skills-content .right .w5::before{
     width: 50%;
 }
 
