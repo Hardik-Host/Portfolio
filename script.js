@@ -33,21 +33,6 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
 
-    // typing text animation script
-    var typed = new Typed(".typing", {
-        strings: ["Python Developer", "Django Developer"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
-
-    var typing = new Typed(".typing-2", {
-        strings: ["Python Developer", "Django Developer"],
-        typeSpeed: 90,
-        backSpeed: 40,
-        loop: true
-    });
-
     // owl carousel script
     $('.carousel').owlCarousel({
         margin: 20,
