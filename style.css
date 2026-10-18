@@ -1097,7 +1097,8 @@ noscript {
     justify-content: center;
     flex-wrap: wrap;
     gap: 50px;
-    margin-top: 50px
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .tech-stack-box,
